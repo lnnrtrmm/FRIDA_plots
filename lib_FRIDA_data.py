@@ -42,6 +42,15 @@ FRIDA_Filenames = {'realGDP': 'gdp_real_gdp_in_2021c.RDS',
                    'CO2growth': 'co2_forcing_atmospheric_co2_growth_gtc.RDS',
                    'OceanCO2uptake': 'ocean_air_sea_co2_flux.RDS',
                    'LandCO2uptake': 'emissions_land_carbon_sink.RDS',
+                   'EBM_Tsurf': 'energy_balance_model_land_and_ocean_surface_temperature.RDS',
+                   'EBM_Tthermo': 'energy_balance_model_thermocline_ocean_temperature.RDS',
+                   'EBM_Tdeep': 'energy_balance_model_deep_ocean_temperature.RDS',
+                   'EBM_Csurf': 'energy_balance_model_heat_capacity_of_land_and_ocean_surface.RDS',
+                   'EBM_Cthermo': 'energy_balance_model_heat_capacity_of_thermocline_ocean.RDS',
+                   'EBM_Cdeep': 'energy_balance_model_heat_capacity_of_deep_ocean.RDS',
+                   'Forcing_CO2': 'co2_forcing_co2_effective_radiative_forcing.RDS',
+                   'Forcing_anthro': 'forcing_anthropogenic_effective_radiative_forcing.RDS',
+                   'Forcing_all': 'forcing_total_effective_radiative_forcing.RDS'
                    }
 
 
